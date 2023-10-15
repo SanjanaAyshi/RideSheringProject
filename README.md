@@ -1,2 +1,3 @@
 # RideSheringProject!
-![RideShearing drawio(1)](https://github.com/SanjanaAyshi/RideSheringProject/assets/67552924/47eacf3e-97a9-4f36-87f9-452e11ffe036)
+#UML 
+![RideShearing drawio(2)](https://github.com/SanjanaAyshi/RideSheringProject/assets/67552924/96e8504b-140c-4db4-84e9-bc245cecfb9f)
